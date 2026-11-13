@@ -1,0 +1,13 @@
+{
+  "name": "enablement-studio",
+  "version": "1.0.0",
+  "description": "Draft training kits from job postings, coach sales and support calls, and critique lesson outlines in Enablement Studio, from inside Cursor.",
+  "author": {
+    "name": "Enablement Studio"
+  },
+  "homepage": "https://enablementstudio.ai",
+  "repository": "https://github.com/ryanclawjr/enablement-studio-connector",
+  "license": "MIT",
+  "keywords": ["training", "instructional design", "enablement", "onboarding", "coaching"],
+  "logo": "assets/logo.png"
+}
