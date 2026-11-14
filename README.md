@@ -51,7 +51,7 @@ It cannot apply or reject a change, rename, move or delete anything, or reach yo
 
 ## Your data
 
-Only what the app sends when it uses a tool reaches Enablement Studio: the words it pastes for a run, a question for a specialist, and which kit, project or run it means. A kit a run makes is saved to your Library until you delete it. The words for a run go to the model provider (OpenAI) only if you ticked the box allowing it when you connected; without the tick, nothing goes to the provider. When an app reads a kit it receives everything in that kit, including any names in a transcript you pasted.
+Only what the app sends when it uses a tool reaches Enablement Studio: the words it pastes for a run, a question for a specialist, and which kit, project or run it means. A kit a run makes is saved to your Library until you delete it. The words for a run go to the model provider (OpenAI) only if you ticked the box allowing it when you connected; without the tick, nothing goes to the provider. What an AI app sends goes through a separate OpenAI project of ours that does not share it with OpenAI to improve its models. When an app reads a kit it receives everything in that kit, including any names in a transcript you pasted.
 
 ## Disconnect
 
@@ -60,6 +60,7 @@ Open Settings, then AI apps, on enablementstudio.ai. Under Connected apps, choos
 ## Links
 
 - Guide: https://enablementstudio.ai/ai-apps/guide
+- Testing steps for reviewers: [TESTING.md](TESTING.md)
 - Privacy policy: https://enablementstudio.ai/privacy
 - Terms: https://enablementstudio.ai/terms
 - Support: https://enablementstudio.ai/contact
